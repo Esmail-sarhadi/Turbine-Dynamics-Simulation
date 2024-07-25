@@ -94,6 +94,9 @@ The script includes five example parameter sets that illustrate the turbine's re
 4. `mass_flow_rate=1.8`, `T_in=580K`, `P_in=280kPa`, `alpha=30 degrees`
 5. `mass_flow_rate=2`, `T_in=600K`, `P_in=300kPa`, `alpha=45 degrees`
 
+
+![Esmai Sarhadi](1.png)
+
 Each example runs the simulation for a time span of 20 seconds, evaluating the results at 500 equally spaced points.
 
 ## Contributing
