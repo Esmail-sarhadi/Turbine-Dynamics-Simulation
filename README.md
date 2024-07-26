@@ -6,7 +6,7 @@ This project simulates the dynamics of a turbine under different operational con
 ## 📑 Table of Contents 
     
 - [📖 Project Overview](#project-overview)
-- [⚙️ Installation](#installation)
+- [⚙️ Installation](#installation) 
 - [📚 Usage](#usage)
 - [🔬 Algorithm Explanation](#algorithm-explanation)   
 - [🔢 Examples](#examples) 
