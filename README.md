@@ -13,7 +13,7 @@ This project simulates the dynamics of a turbine under different operational con
 - [🤝 Contributing](#contributing)    
 - [📄 License](#license)
 - [💖 Donation](#donation)  
-
+ 
 ## 📖 Project Overview
 
 The goal of this project is to model and simulate the dynamic response of a turbine. The system is described by a set of differential equations that account for the angular velocity of the turbine, output pressure, output temperature, and output enthalpy.
